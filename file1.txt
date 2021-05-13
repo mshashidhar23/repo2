@@ -1,2 +1,3 @@
 new text file for jenkin poll scm
 ws
+new edit
